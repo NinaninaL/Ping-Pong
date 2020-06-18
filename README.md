@@ -1,1 +1,2 @@
-Apprendre en faisant un petit jeu de Ping Pong, rien de mieux pour apprendre :) 
+Projet 1 :
+Creation du jeu "Ping Pong" 
